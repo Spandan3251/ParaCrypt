@@ -1,13 +1,9 @@
 # Ignore environment variables / secrets
 .env
 
-# Ignore IDE configurations
-.vscode/
-
 # Ignore compiled object files
 *.o
 
 # Ignore your final compiled output binaries
 encrypt_decrypt
 cryption
-test/
